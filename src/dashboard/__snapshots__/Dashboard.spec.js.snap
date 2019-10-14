@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Dashboard component it renders Display and Dashboard 1`] = `
+exports[`Dashboard component it matches snapshot 1`] = `
 <div>
   <div
     class="display panel"
